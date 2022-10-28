@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/movieverse/static/css/main.053be06a.css",
+    "main.css": "/movieverse/static/css/main.35344f5f.css",
     "main.js": "/movieverse/static/js/main.4234e026.js",
     "static/media/logoTMDB.svg": "/movieverse/static/media/logoTMDB.bf7f470b3821af1da7fa249c87dadea3.svg",
     "index.html": "/movieverse/index.html",
-    "main.053be06a.css.map": "/movieverse/static/css/main.053be06a.css.map",
+    "main.35344f5f.css.map": "/movieverse/static/css/main.35344f5f.css.map",
     "main.4234e026.js.map": "/movieverse/static/js/main.4234e026.js.map"
   },
   "entrypoints": [
-    "static/css/main.053be06a.css",
+    "static/css/main.35344f5f.css",
     "static/js/main.4234e026.js"
   ]
 }
